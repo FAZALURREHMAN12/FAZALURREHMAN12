@@ -1,4 +1,4 @@
-# Hi there, I'm Fazal Ur Rehman Cheema 👋
+# Hi there, I'm Fazal Ur Rehman 👋
 
 I am a Computer Science student at Beaconhouse National University in Lahore, focusing on building scalable backend architectures, training machine learning models, and exploring decentralized applications. Whether it's optimizing low-level x86 Assembly or deploying smart contracts on the Sepolia testnet, I enjoy solving complex problems across the entire stack.
 
