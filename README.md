@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Fazal Ur Rehman Cheema 👋
 
-<!--
-**FAZALURREHMAN12/FAZALURREHMAN12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student at Beaconhouse National University in Lahore, focusing on building scalable backend architectures, training machine learning models, and exploring decentralized applications. Whether it's optimizing low-level x86 Assembly or deploying smart contracts on the Sepolia testnet, I enjoy solving complex problems across the entire stack.
 
-Here are some ideas to get you started:
+Beyond code, I also manage operations and digital branding for a men's leather accessories brand, REMEMBER.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, C++, C, x86 Assembly, SQL, Solidity
+* **Machine Learning:** TensorFlow/Keras, Scikit-learn, Neural Networks, Computer Vision
+* **Backend & Databases:** MongoDB, Object-Oriented Architecture (OOP)
+* **DevOps & Web3:** CI/CD Pipelines, Version Control, Remix, MetaMask
+
+### 🚀 What I'm Building
+* **AI/ML:** Architecting deep learning models for image classification and NLP sentiment analysis.
+* **Systems:** Developing core management systems utilizing secure file handling and NoSQL databases.
+* **Blockchain:** Writing and testing smart contracts.
+
+### 📫 Let's Connect
+* **Portfolio:** []
+* **LinkedIn:** [https://www.linkedin.com/in/fazal-ur-rehman-cheema-724809291/]
+* **Email:** [fazalurrehman72003@gmail.com]
